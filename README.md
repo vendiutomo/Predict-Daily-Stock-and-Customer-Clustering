@@ -72,3 +72,5 @@ From clusters 1 to 3 the distance between clusters is quite far apart, but from 
 > 1. Monitoring transactions and retention from the **High Spender** group can **improve service** so that these groups do not churn in the future.
 > 2. For the **Mid Spender** group, further analysis can be carried out on **how to increase transactions by providing more personal recommendations**, as well as deeper analysis on how to optimize promos in this segment and keep shopping.
 > 3. For the **Low Spender** group, further analysis can also be carried out on **how to increase the desire to make transactions**. This can be caused by products or prices that do not match.
+
+# Final Submission [Click Here](https://docs.google.com/presentation/d/1TxRiOoeLSyQTBdp_qhLqmrnsXR1KYyG_mpzJnnXBj7A/edit?usp=sharing)!
