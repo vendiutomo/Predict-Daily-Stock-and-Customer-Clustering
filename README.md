@@ -1,5 +1,5 @@
 # Predict-Daily-Stock-and-Customer-Clustering
-| Project-Based Virtual Intern: Data Scientist | Kalbe Nutritionals x Rakamin Academy | [Presentation is Here](https://www.canva.com/design/DAFpswM-zW8/_UQjb-DgfQPC88Fme9D8Yw/view?utm_content=DAFpswM-zW8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)!
+Project-Based Virtual Intern: Data Scientist | Kalbe Nutritionals x Rakamin Academy | [Presentation is Here](https://www.canva.com/design/DAFpswM-zW8/_UQjb-DgfQPC88Fme9D8Yw/view?utm_content=DAFpswM-zW8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)!
 
 > In this project I am a Data Scientist who assists the inventory team in predicting daily stock requirements and also helps the marketing team group customers into several segments/clusters to increase the effectiveness of marketing activities.
 
